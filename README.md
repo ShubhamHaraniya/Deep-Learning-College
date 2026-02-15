@@ -23,9 +23,8 @@ pip install -r requirements.txt
 ## Project Structure
 
 ```
+Assignment 1/
 ├── main.py              # Complete training and evaluation pipeline
-├── report.tex           # LaTeX report
-├── README.md            # This file
 ├── requirements.txt     # Python dependencies
 ├── data/                # CIFAR-10 dataset (auto-downloaded)
 └── output/              # All generated outputs
